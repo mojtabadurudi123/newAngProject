@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "ProductBrandTitle": "Angular"
+  },
+  {
+    "Id": 2,
+    "ProductBrandTitle": "NetCore"
+  },
+  {
+    "Id": 3,
+    "ProductBrandTitle": "VS Code"
+  },
+  {
+    "Id": 4,
+    "ProductBrandTitle": "React"
+  },
+  {
+    "Id": 5,
+    "ProductBrandTitle": "Typescript"
+  },
+  {
+    "Id": 6,
+    "ProductBrandTitle": "Redis"
+  }
+]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mojave/newProject/Core/Core.csproj": {}
+    "/Users/mojave/Projects/newProject/Core/Core.csproj": {}
   },
   "projects": {
-    "/Users/mojave/newProject/Core/Core.csproj": {
+    "/Users/mojave/Projects/newProject/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mojave/newProject/Core/Core.csproj",
+        "projectUniqueName": "/Users/mojave/Projects/newProject/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/mojave/newProject/Core/Core.csproj",
+        "projectPath": "/Users/mojave/Projects/newProject/Core/Core.csproj",
         "packagesPath": "/Users/mojave/.nuget/packages/",
-        "outputPath": "/Users/mojave/newProject/Core/obj/",
+        "outputPath": "/Users/mojave/Projects/newProject/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mojave/.nuget/NuGet/NuGet.Config"

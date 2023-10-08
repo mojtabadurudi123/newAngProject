@@ -1763,11 +1763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mojave/newProject/API/API.csproj",
+      "projectUniqueName": "/Users/mojave/Projects/newProject/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/mojave/newProject/API/API.csproj",
+      "projectPath": "/Users/mojave/Projects/newProject/API/API.csproj",
       "packagesPath": "/Users/mojave/.nuget/packages/",
-      "outputPath": "/Users/mojave/newProject/API/obj/",
+      "outputPath": "/Users/mojave/Projects/newProject/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mojave/.nuget/NuGet/NuGet.Config"
@@ -1782,8 +1782,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/mojave/newProject/Infrastracture/Infrastracture.csproj": {
-              "projectPath": "/Users/mojave/newProject/Infrastracture/Infrastracture.csproj"
+            "/Users/mojave/Projects/newProject/Infrastracture/Infrastracture.csproj": {
+              "projectPath": "/Users/mojave/Projects/newProject/Infrastracture/Infrastracture.csproj"
             }
           }
         }

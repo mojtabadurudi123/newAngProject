@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wsm2HATBRI1Dk3ZzEYGcLwxr0N2gpFW+7e4sIKtm5njP/yG7bAoLK4hpyLpBMuQnzQuS3OKizzOOy7KUR9xF4w==",
+  "dgSpecHash": "ehNlSg5H+hmWpreBcI49pxXL/tx2YK2vWfccjBhaOLJJYNK44pZuPMRrw4AUE/kWYE9IJzMgOiBlae/kL9VR+A==",
   "success": true,
-  "projectFilePath": "/Users/mojave/newProject/Infrastracture/Infrastracture.csproj",
+  "projectFilePath": "/Users/mojave/Projects/newProject/Infrastracture/Infrastracture.csproj",
   "expectedPackageFiles": [
     "/Users/mojave/.nuget/packages/microsoft.data.sqlite.core/6.0.22/microsoft.data.sqlite.core.6.0.22.nupkg.sha512",
     "/Users/mojave/.nuget/packages/microsoft.entityframeworkcore/6.0.22/microsoft.entityframeworkcore.6.0.22.nupkg.sha512",

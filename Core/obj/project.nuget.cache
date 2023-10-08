@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qBQbPaoCFZY8a1VEVsrRxGcnX3PoDK+jzlbbwiChxtYM17YrTpkK00GJjLTW/xhdTEfo1oWHPMwYxKu+5rvTLw==",
+  "dgSpecHash": "/AgXm9i1vcIDmEqKPZp8CmcPqNFyg6x8BaIgvJ3Zo+L0UG396cDoXXOSxO9uXxzZwDtN+ZbE38uUZ+OFsLNqGg==",
   "success": true,
-  "projectFilePath": "/Users/mojave/newProject/Core/Core.csproj",
+  "projectFilePath": "/Users/mojave/Projects/newProject/Core/Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

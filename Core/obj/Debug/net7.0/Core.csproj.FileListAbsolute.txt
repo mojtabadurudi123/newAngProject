@@ -9,3 +9,14 @@
 /Users/mojave/newProject/Core/obj/Debug/net7.0/refint/Core.dll
 /Users/mojave/newProject/Core/obj/Debug/net7.0/Core.pdb
 /Users/mojave/newProject/Core/obj/Debug/net7.0/ref/Core.dll
+/Users/mojave/Projects/newProject/Core/bin/Debug/net7.0/Core.deps.json
+/Users/mojave/Projects/newProject/Core/bin/Debug/net7.0/Core.dll
+/Users/mojave/Projects/newProject/Core/bin/Debug/net7.0/Core.pdb
+/Users/mojave/Projects/newProject/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mojave/Projects/newProject/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/mojave/Projects/newProject/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/mojave/Projects/newProject/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/mojave/Projects/newProject/Core/obj/Debug/net7.0/Core.dll
+/Users/mojave/Projects/newProject/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/mojave/Projects/newProject/Core/obj/Debug/net7.0/Core.pdb
+/Users/mojave/Projects/newProject/Core/obj/Debug/net7.0/ref/Core.dll

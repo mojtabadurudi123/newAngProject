@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mojave/newProject/API/API.csproj": {}
+    "/Users/mojave/Projects/newProject/API/API.csproj": {}
   },
   "projects": {
-    "/Users/mojave/newProject/API/API.csproj": {
+    "/Users/mojave/Projects/newProject/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mojave/newProject/API/API.csproj",
+        "projectUniqueName": "/Users/mojave/Projects/newProject/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/mojave/newProject/API/API.csproj",
+        "projectPath": "/Users/mojave/Projects/newProject/API/API.csproj",
         "packagesPath": "/Users/mojave/.nuget/packages/",
-        "outputPath": "/Users/mojave/newProject/API/obj/",
+        "outputPath": "/Users/mojave/Projects/newProject/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mojave/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/mojave/newProject/Infrastracture/Infrastracture.csproj": {
-                "projectPath": "/Users/mojave/newProject/Infrastracture/Infrastracture.csproj"
+              "/Users/mojave/Projects/newProject/Infrastracture/Infrastracture.csproj": {
+                "projectPath": "/Users/mojave/Projects/newProject/Infrastracture/Infrastracture.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "/Users/mojave/newProject/Core/Core.csproj": {
+    "/Users/mojave/Projects/newProject/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mojave/newProject/Core/Core.csproj",
+        "projectUniqueName": "/Users/mojave/Projects/newProject/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/mojave/newProject/Core/Core.csproj",
+        "projectPath": "/Users/mojave/Projects/newProject/Core/Core.csproj",
         "packagesPath": "/Users/mojave/.nuget/packages/",
-        "outputPath": "/Users/mojave/newProject/Core/obj/",
+        "outputPath": "/Users/mojave/Projects/newProject/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mojave/.nuget/NuGet/NuGet.Config"
@@ -133,14 +133,14 @@
         }
       }
     },
-    "/Users/mojave/newProject/Infrastracture/Infrastracture.csproj": {
+    "/Users/mojave/Projects/newProject/Infrastracture/Infrastracture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mojave/newProject/Infrastracture/Infrastracture.csproj",
+        "projectUniqueName": "/Users/mojave/Projects/newProject/Infrastracture/Infrastracture.csproj",
         "projectName": "Infrastracture",
-        "projectPath": "/Users/mojave/newProject/Infrastracture/Infrastracture.csproj",
+        "projectPath": "/Users/mojave/Projects/newProject/Infrastracture/Infrastracture.csproj",
         "packagesPath": "/Users/mojave/.nuget/packages/",
-        "outputPath": "/Users/mojave/newProject/Infrastracture/obj/",
+        "outputPath": "/Users/mojave/Projects/newProject/Infrastracture/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mojave/.nuget/NuGet/NuGet.Config"
@@ -155,8 +155,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/mojave/newProject/Core/Core.csproj": {
-                "projectPath": "/Users/mojave/newProject/Core/Core.csproj"
+              "/Users/mojave/Projects/newProject/Core/Core.csproj": {
+                "projectPath": "/Users/mojave/Projects/newProject/Core/Core.csproj"
               }
             }
           }
