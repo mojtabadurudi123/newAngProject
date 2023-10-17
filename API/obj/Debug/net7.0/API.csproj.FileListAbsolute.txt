@@ -138,3 +138,6 @@
 /Users/mojave/Projects/newProject/API/obj/Debug/net7.0/API.pdb
 /Users/mojave/Projects/newProject/API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /Users/mojave/Projects/newProject/API/obj/Debug/net7.0/ref/API.dll
+/Users/mojave/Projects/newProject/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/mojave/Projects/newProject/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/mojave/Projects/newProject/API/bin/Debug/net7.0/API.staticwebassets.runtime.json

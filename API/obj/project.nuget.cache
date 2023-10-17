@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "oILdgBY1RZWSWnGKtLckPWKjuxrTRBffhybJfpd9vgAFy+sTAPRF76fQP/jaXFhXly3/+uqc1E1d8qa8XQIUUQ==",
+  "dgSpecHash": "M1B7r9KqfKpSeB1tS8CYILLkyThkk3J0zw+WZdxmMM7VEnYhleEuWB9MxmrZfqxXZFTt6eCEGsKODi+Hm8yshA==",
   "success": true,
   "projectFilePath": "/Users/mojave/Projects/newProject/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/mojave/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/mojave/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/mojave/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/mojave/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "/Users/mojave/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/mojave/.nuget/packages/microsoft.data.sqlite.core/6.0.22/microsoft.data.sqlite.core.6.0.22.nupkg.sha512",
     "/Users/mojave/.nuget/packages/microsoft.entityframeworkcore/6.0.22/microsoft.entityframeworkcore.6.0.22.nupkg.sha512",
     "/Users/mojave/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.22/microsoft.entityframeworkcore.abstractions.6.0.22.nupkg.sha512",

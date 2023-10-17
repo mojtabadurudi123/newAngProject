@@ -1,3 +1,4 @@
+using API.Helpers;
 using Core.Interfaces;
 using Infrastracture.Data;
 using Infrastracture.Data.Repositories;
@@ -13,7 +14,10 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<StoreDBContext>(x=>x.UseSqlite($"Data Source=FirstAngularAppDB.db"));// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped(typeof( IGenericRepository<>),(typeof(GenericRepository<>)));
+builder.Services.AddAutoMapper(typeof(MappingProfiles));
 builder.Services.AddScoped<IProductsRepository,ProductsRepository>();
+
 var app = builder.Build();
 
 using (var scop=app.Services.CreateScope())
@@ -43,7 +47,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseStaticFiles();
 app.UseAuthorization();
 
 app.MapControllers();
