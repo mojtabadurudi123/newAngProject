@@ -16,9 +16,8 @@ using API.Dtos;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class ProductsController : Controller
+    
+    public class ProductsController : BaseApiController
     {
         private readonly IGenericRepository<Products> _productsRepository;
         private readonly IGenericRepository<ProductBrands> _productBrandsRepo;

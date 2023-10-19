@@ -141,3 +141,11 @@
 /Users/mojave/Projects/newProject/API/bin/Debug/net7.0/AutoMapper.dll
 /Users/mojave/Projects/newProject/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/mojave/Projects/newProject/API/bin/Debug/net7.0/API.staticwebassets.runtime.json
+/Users/mojave/Projects/newProject/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/mojave/Projects/newProject/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/mojave/Projects/newProject/API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mojave/Projects/newProject/API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mojave/Projects/newProject/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mojave/Projects/newProject/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mojave/Projects/newProject/API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mojave/Projects/newProject/API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
